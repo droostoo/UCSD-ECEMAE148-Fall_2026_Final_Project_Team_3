@@ -1,0 +1,34 @@
+site_name: ECE/MAE 148 Final Project Documentation
+site_description: UCSD ECE 148 Final Project Documentation
+
+theme:
+  name: material
+  palette:
+    - scheme: slate
+      primary: indigo
+      accent: cyan
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+    - scheme: default
+      primary: indigo
+      accent: blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Home: index.md
+  - Team: team.md
+  - Hardware: hardware.md
+  - Software: software.md
+  - System Design: system-design.md
+  - Testing: testing.md
+  - Final Results: final-results.md

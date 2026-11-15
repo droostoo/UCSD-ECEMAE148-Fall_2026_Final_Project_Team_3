@@ -1,0 +1,13 @@
+#Python virtual environment
+.venv/
+__pycache__/
+*.pyc
+
+# MkDocs build directory
+site/
+
+#Editor settings
+.vscode/
+
+#Environment files
+.env
