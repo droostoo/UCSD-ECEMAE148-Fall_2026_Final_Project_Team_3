@@ -1,11 +1,11 @@
 
-# Autonomous Vehicle Final Project
+# UCSD ECEMAE148 Fall 2026 Team 3 Final Project
 
 **UC San Diego | ECE 148 — Autonomous Vehicles**
 
 Welcome to our team's final project documentation!
 
-Our project focuses on the design, development, and testing of an autonomous robotic vehicle. We aim to combine hardware, software, and intelligent control systems to create a functional autonomous driving platform.
+Our final project is an emergency response ground vehicle capable of translating GPS coordinates and navigating concrete terrain in order to quickly respond to emergency situations. 
 
 ---
 
