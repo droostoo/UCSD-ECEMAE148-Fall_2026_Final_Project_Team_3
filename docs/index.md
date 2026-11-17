@@ -1,17 +1,64 @@
-# Welcome to MkDocs
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+# Autonomous Vehicle Final Project
 
-## Commands
+**UC San Diego | ECE 148 — Autonomous Vehicles**
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+Welcome to our team's final project documentation!
 
-## Project layout
+Our project focuses on the design, development, and testing of an autonomous robotic vehicle. We aim to combine hardware, software, and intelligent control systems to create a functional autonomous driving platform.
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+---
+
+## Project Overview
+
+This website documents our engineering process, including system design, hardware integration, software development, testing, and final results.
+
+Throughout the project, we will document our challenges, solutions, and lessons learned.
+
+### Project Objectives
+
+- Develop a functional autonomous vehicle.
+- Integrate sensors and embedded computing hardware.
+- Implement autonomous driving algorithms.
+- Test and evaluate vehicle performance.
+- Document our development process.
+
+---
+
+## Explore Our Project
+
+### Hardware
+
+Learn about the physical components, electronics, sensors, and mechanical design of our vehicle.
+
+[View Hardware Documentation](hardware.md)
+
+### Software
+
+Explore our software architecture, autonomous driving algorithms, and control systems.
+
+[View Software Documentation](software.md)
+
+### Meet the Team
+
+Learn about the engineers behind the project and their individual contributions.
+
+[Meet Our Team](team.md)
+
+### Testing and Results
+
+Follow our testing process, performance evaluations, and final demonstration.
+
+[View Testing Results](testing.md)
+
+---
+
+## Project Development
+
+Our team uses GitHub for version control, collaboration, and project documentation.
+
+This website is built with MkDocs Material and automatically deployed using GitHub Pages.
+
+---
+
+**UC San Diego — ECE 148 Autonomous Vehicles**
